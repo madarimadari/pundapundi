@@ -168,6 +168,9 @@ http://bdvisioniptv.ddns.net:25461/live/tonmay23/7252/863.m3u8
 #EXTINF:-1 tvg-name="Sun Bangla" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/7364080_ico.png?ts=1613156952" group-title="Indian Bangla Channel",Sun Bangla
 http://bdvisioniptv.ddns.net:25461/live/tonmay23/7252/800.m3u8
 
+#EXTINF:-1 tvg-name="Enterr 10" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/2228136_ico.png?ts=1613674520" group-title="Indian Bangla Channel",Enterr 10
+http://bdvisioniptv.ddns.net:25461/live/tonmay23/7252/704.m3u8
+
 #EXTINF:-1 tvg-name="Zee Bangla" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="Indian Bangla Channel",Zee Bangla
 http://bdvisioniptv.ddns.net:25461/live/tonmay23/7252/192.m3u8
 
@@ -1258,7 +1261,7 @@ http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-name="1HD Music" tvg-logo="" group-title="Music Channel",1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-name="Desi Channel" tvg-logo="" group-title="Music",Desi Channel
+#EXTINF:-1 tvg-name="Desi Channel" tvg-logo="" group-title="Music Channel",Desi Channel
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
 
 #EXTINF:-1 tvg-name="Sakkat" tvg-logo="" group-title="Music Channel",Sakkat
