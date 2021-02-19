@@ -1751,7 +1751,7 @@ http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="http://www.nettv.live/uploads/allimg/19/1-1Z5092006450-L.jpg" group-title="ULS PLus",黑莓电影
 http://121.31.30.90:8085/ysten-business/live/jdianying/1.m3u8
 
-                                                             bangla movies
+                                                                                                                          bangla movies
 
 #EXTINF:-1 tvg-name="Cheeni" tvg-logo="http://timepassbd.live/Admin/main/images/tt13575922/poster/jaOBd811QoAZgTlWFbGviqgvI2D.jpg" group-title="Bangla Movies",Cheeni
 http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2020/Cheeni%20%282020%29/Cheeni%202021%201080p%20WEB-DL%20H264%20AAC-TimepassBD.mkv
@@ -1764,6 +1764,9 @@ http://bdvisioniptv.ddns.net:25461/movie/tonmay23/7252/1926.mp4
 
 #EXTINF:-1 tvg-name="Aloukik" tvg-logo="http://timepassbd.live/Admin/main/images/MM39708555/poster/h74l4dA.png" group-title="Bangla Movies",Aloukik
 http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2021/Aloukik%20%282021%29/Aloukik%20%282021%29%20Bengali%20%20720p%20Addatimes%20WEB-DL%20X264%20AAC%202.0%20-Top10Torrent.site.mkv
+
+#EXTINF:-1 tvg-name="Sraboner Dhara" tvg-logo="http://timepassbd.live/Admin/main/images/tt11497808/poster/bJFFQPGd4c7IFwGzLBYNfzwgbgI.jpg" group-title="Bangla Movies",Sraboner Dhara
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2020/Sraboner%20Dhara%20%282020%29/Sraboner.Dhara.2020.Hoichoi.1080p.WEB-DL.AAC.264-TimepassBD.mkv
 
 #EXTINF:-1 tvg-name="Nabab LLB" tvg-logo="https://dekhobd.com/uploads/video_thumb/1706.jpg" group-title="Bangla Movies",Nabab LLB
 https://cdn1dekhobd.xyz/cdn/down/edbc8725ab7e8b7c974476dd3183a98b/720p_nabab-llb.mp4
@@ -1833,6 +1836,24 @@ http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2020/Tasher%20Ghawr%20
 
 #EXTINF:-1 tvg-name="Detective" tvg-logo="http://timepassbd.live/Admin/main/images/tt12676972/poster/9p0BJK9IRL3idVNcLS7Nnww5z9M.jpg" group-title="Bangla Movies",Detective
 http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2020/Detective%20%282020%29/Detective.2020.Bengali.hoichoi.WEB-DL.AAC.2CH.Esub.x264.BonsaiHD.mkv
+
+#EXTINF:-1 tvg-name="Jamai 420" tvg-logo="http://timepassbd.live/Admin/main/images/tt4701578/poster/leYBbK0u6MsxZMtvniAguAE4nMm.jpg" group-title="Bangla Movies",Jamai 420
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2015/Jamai%20420%20%282015%29/Jamai.420.2015.Hoichoi.1080p.WEB-DL.AAC.x264-TimepassBD.mkv
+
+#EXTINF:-1 tvg-name="Sultan: The Saviour" tvg-logo="http://timepassbd.live/Admin/main/images/tt8396262/poster/gHjW3aKZL6UbWBqxaP6StaSZe8.jpg" group-title="Bangla Movies",Sultan: The Saviour
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2018/Sultan%3A%20The%20Saviour%20%282018%29/Sultan%20The%20Saviour%20%282018%29%201080p%20WEB-DL%20H264%20AAC_LillMASTER.mkv
+
+#EXTINF:-1 tvg-name="Panther" tvg-logo="http://timepassbd.live/Admin/main/images/tt10789322/poster/ydyVFfjy9TVbxqOBJuWoWFw2W7z.jpg" group-title="Bangla Movies",Panther
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2019/Panther%20%282019%29/Panther.2019.1080p.Zee5.WEB-DL.AAC.x264-TimepassBD.mkv
+
+#EXTINF:-1 tvg-name="Konttho" tvg-logo="http://timepassbd.live/Admin/main/images/tt9110380/poster/ckTbidgctoi2dSTjuNDjaZ0KS4z.jpg" group-title="Bangla Movies",Konttho
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2019/Konttho%20%282019%29/Konttho.2019.Bengali.1080p.WEB-DL.AAC.x264-TimepassBD.mkv
+
+#EXTINF:-1 tvg-name="Devi" tvg-logo="http://timepassbd.live/Admin/main/images/tt6510288/poster/devi.jpg" group-title="Bangla Movies",Devi
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2017/Devi%20%282017%29/Devi.2017.Bengali.1080p.WEB-DL.AAC.x264-TimepassBD.mkv
+
+#EXTINF:-1 tvg-name="Love Aaj Kal Porshu" tvg-logo="http://timepassbd.live/Admin/main/images/tt10801042/poster/aX2MPX3uGGHDdtG6guXtBm22QSH.jpg" group-title="Bangla Movies",Love Aaj Kal Porshu
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2020/Love%20Aaj%20Kal%20Porshu%20%282020%29/Love%20Aaj%20Kal%20Porshu.2020.1080p.AMZN%20WEB-DL.HEVC.DDP%205.1.Esub-D0T-Telly.mkv
 
                                                            Hindi Movies
 
@@ -1908,6 +1929,45 @@ http://ftp.timepassbd.live/skyview-ftp/ftp2/HINDI_MOVIES/2020/Anwar%20Ka%20Ajab%
 #EXTINF:-1 tvg-name="Ludo" tvg-logo="http://timepassbd.live/Admin/main/images/tt7212754/poster/frB57nMDmu4NnSzjmrq0lEx5iod.jpg" group-title="Hindi Movies",Ludo
 http://ftp.timepassbd.live/skyview-ftp/ftp2/HINDI_MOVIES/2020/Ludo/Ludo.2020.Hindi.720p.NF.WEB-DL.AAC2.0.x264-BonsaiHD.mkv
 
+#EXTINF:-1 tvg-name="Virgin Bhanupriya" tvg-logo="http://timepassbd.live/Admin/main/images/tt11964084/poster/xujced26SmDLU7B3ELXr6lgiiPA.jpg" group-title="Hindi Movies",Virgin Bhanupriya
+http://ftp.timepassbd.live/skyview-ftp/ftp2/HINDI_MOVIES/2020/Virgin%20Bhanupriya%20%282020%29/Virgin%20Bhanupriya%20%282020%29%20Zee%205%20Hindi%201080p%20WEBRip%20x264%20AAC.%20Eng%20Sub.mkv
+
+#EXTINF:-1 tvg-name="Bulbbul" tvg-logo="http://timepassbd.live/Admin/main/images/tt12393526/poster/vdoS5MAAHcnD5Jgu0gMs56XDzW9.jpg" group-title="Hindi Movies",Bulbbul
+http://ftp.timepassbd.live/skyview-ftp/ftp2/HINDI_MOVIES/2020/Bulbbul%20%282020%29/Bulbbul.2020.1080p.NF.WEB-DL.DDP5.1.x264-Telly.mp4
+
+#EXTINF:-1 tvg-name="Axone" tvg-logo="http://timepassbd.live/Admin/main/images/tt8747548/poster/tOI0cjMmjruvUQ6QIbMfSjzWBLk.jpg" group-title="Hindi Movies",Axone
+http://ftp.timepassbd.live/skyview-ftp/ftp2/HINDI_MOVIES/2019/Axone%20%282019%29/Axone.2019.1080p.NF.WEB-DL.DDP5.1.x264-TimepassBD.mp4
+
+#EXTINF:-1 tvg-name="Bharat" tvg-logo="http://timepassbd.live/Admin/main/images/tt7721800/poster/aawdjzVsfKvRRIFu9Ni74wZyjc8.jpg" group-title="Hindi Movies",Bharat
+http://ftp.timepassbd.live/skyview-ftp/ftp2/HINDI_MOVIES/2019/Bharat%20%282019%29/Bharat%202019%20WebRip%20Hindi%201080p%20x264%20DDP%205.1%20ESub%20-%20mkvCinemas%20%5BTelly%5D.mkv
+
+#EXTINF:-1 tvg-name="Prawaas" tvg-logo="http://timepassbd.live/Admin/main/images/tt9642630/poster/yq5dE49Tpem3u2dbOJEkT555xPM.jpg" group-title="Hindi Movies",Prawaas
+http://ftp.timepassbd.live/skyview-ftp/ftp1/HINDI_MOVIES/2020//Prawaas%20(2020)/(www.bwtorrents.tv)%20Prawaas%202020.1080p.AMZN.WEB-DL.DD+5.1.H264.Dus.IcTv.mp4
+
+#EXTINF:-1 tvg-name="Chaman Bahar" tvg-logo="http://timepassbd.live/Admin/main/images/tt8747450/poster/jfVAx36bnczMArJB8eFZuoDdKC4.jpg" group-title="Hindi Movies",Chaman Bahar
+http://ftp.timepassbd.live/skyview-ftp/ftp1/HINDI_MOVIES/2020//Chaman%20Bahar%20(2020)/Chaman%20Bahar%202020%20WebRip%20720p%20Hindi%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas%20[Telly].mp4
+
+#EXTINF:-1 tvg-name="Gulabo Sitabo" tvg-logo="http://timepassbd.live/Admin/main/images/tt10333912/poster/6TShlXs1W99qBDGgY15dLqF57z.jpg" group-title="Hindi Movies",Gulabo Sitabo
+http://ftp.timepassbd.live/skyview-ftp/ftp2/HINDI_MOVIES/2020//Gulabo%20Sitabo%20(2020)/Gulabo%20Sitabo%20(2020)%20Hindi%20WEB-DL%20-%20480p%20-%20(DD+5.1%20-%20192Kbps)%20-%201.2GB%20-%20ESub%20-%20TeamTMV.mp4
+
+#EXTINF:-1 tvg-name="Court Martial" tvg-logo="http://timepassbd.live/Admin/main/images/tt11774804/poster/98Fv3MSWeIPI2lbC16OxE2tHUYh.jpg" group-title="Hindi Movies",Court Martial
+http://ftp.timepassbd.live/skyview-ftp/ftp2/HINDI_MOVIES/2020//Court%20Martial%20(2020)/Court%20Martial%20(2020).mp4
+
+#EXTINF:-1 tvg-name="Choked - Paisa Bolta Hai" tvg-logo="http://timepassbd.live/Admin/main/images/tt11651780/poster/5bISH2CslULqfc8UtAASbcXGk0A.jpg" group-title="Hindi Movies",Choked - Paisa Bolta Hai
+http://ftp.timepassbd.live/skyview-ftp/ftp2/HINDI_MOVIES/2020//Choked%20-%20Paisa%20Bolta%20Hai%20(2020)/Choked%20-%20Paisa%20Bolta%20Hai%20(2020)%20HDRip%20-%201080p%20-%20(DD5.1)%20[Hindi%20+%20Eng]%20-%201.7GB%20-%20ESub%20-%20TeamTMV.mp4
+
+#EXTINF:-1 tvg-name="Ghoomketu" tvg-logo="http://timepassbd.live/Admin/main/images/tt3734580/poster/xoxGcPUSQM8uSyLDqy5jEPk4tXV.jpg" group-title="Hindi Movies",Ghoomketu
+http://ftp.timepassbd.live/skyview-ftp/ftp2/HINDI_MOVIES/2020//Ghoomketu%20(2020)/Ghoomketu.2020.1080p.ZEE5.WEB-DL.AAC.2.0.x264-Telly.mp4
+
+#EXTINF:-1 tvg-name="Malang" tvg-logo="http://timepassbd.live/Admin/main/images/tt9877170/poster/2COzaii4BnT1O6bbXfAxtoTmADm.jpg" group-title="Hindi Movies",Malang
+http://ftp.timepassbd.live/skyview-ftp/ftp2/HINDI_MOVIES/2020/Malang%20%282020%29/Malang.2020.1080p.NF.WEB-DL.DDP5.1.x264-TimepassBD.mkv
+
+#EXTINF:-1 tvg-name="Thappad" tvg-logo="http://timepassbd.live/Admin/main/images/tt10964430/poster/nSOgDTClgfbIOBgv4Itf3GSEkWA.jpg" group-title="Hindi Movies",Thappad
+http://ftp.timepassbd.live/skyview-ftp/ftp2/HINDI_MOVIES/2020/Thappad%20%282020%29/THAPPAD%20%282020%29%20Hindi%20TRUE%20WEB-DL%20-%201080p%20-%20AVC%20-%20UNTOUCHED%20-%20%28DD%2B5.1%20-%20640Kbps%29%20-%204.2GB%20-%20ESub-TimepassBD.mkv
+
+#EXTINF:-1 tvg-name="Love Aaj Kal" tvg-logo="http://timepassbd.live/Admin/main/images/tt10023024/poster/kxuF0Bx2o7xREN66ELoDdtC7FR1.jpg" group-title="Hindi Movies",Love Aaj Kal
+http://ftp.timepassbd.live/skyview-ftp/ftp2/HINDI_MOVIES/2020/Love%20Aaj%20Kal%20%282020%29/Love.Aaj.Kal.2020.1080p.NF.WEB-DL.DDP5.1.x264-TimepassBD.mkv
+
                                                         Hollywood Movies
 
 #EXTINF:-1 tvg-name="PVT Chat" tvg-logo="http://timepassbd.live/Admin/main/images/tt8110004/poster/tvGBoCe0IPRlpwx5QsrRrcMmuLT.jpg" group-title="Hollywood Movies",PVT Chat
@@ -1978,6 +2038,24 @@ http://ftp.timepassbd.live/skyview-ftp/ftp1/ENGLISH_MOVIES/2020/The%20Dissident%
 
 #EXTINF:-1 tvg-name="The Night They Knocked" tvg-logo="http://timepassbd.live/Admin/main/images/tt7588822/poster/AjlVJ8y62Sx34eXsugV4htv8wpQ.jpg" group-title="Hollywood Movies",The Night They Knocked 
 http://ftp.timepassbd.live/skyview-ftp/ftp1/ENGLISH_MOVIES/2020/The%20Night%20They%20Knocked%20%282020%29/The.Night.They.Knocked.2020.1080p.WEB-DL.mkv
+
+#EXTINF:-1 tvg-name="Blithe Spirit" tvg-logo="http://timepassbd.live/Admin/main/images/tt10334148/poster/54UVKPHzT8ymwj20YZScKLHaXG6.jpg" group-title="Hollywood Movies",Blithe Spirit 
+http://ftp.timepassbd.live/skyview-ftp/ftp1/ENGLISH_MOVIES/2020/Blithe%20Spirit%20%282020%29/Blithe.Spirit.2021.1080p.HDRip.DD5.1.X.264-EVO.mkv
+
+#EXTINF:-1 tvg-name="Penguins: Life on the Edge" tvg-logo="http://image.tmdb.org/t/p/w185/46B5DYMJm60LauKQKDrbMVJ3kRz.jpg" group-title="Hollywood Movies",Penguins: Life on the Edge 
+http://ftp.timepassbd.live/skyview-ftp/ftp1/ENGLISH_MOVIES/2020/Penguins%3A%20Life%20on%20the%20Edge%20%282020%29/Penguins.Life.On.The.Edge.2020.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+
+#EXTINF:-1 tvg-name="The House in Sherwood" tvg-logo="http://timepassbd.live/Admin/main/images/tt13641400/poster/e9uDnoDsqeVuEpuJBtaYh0GGMQo.jpg" group-title="Hollywood Movies",The House in Sherwood 
+http://ftp.timepassbd.live/skyview-ftp/ftp1/ENGLISH_MOVIES/2020/The%20House%20in%20Sherwood%20%282020%29/The.House.In.Sherwood.2020.1080p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+
+#EXTINF:-1 tvg-name="The Marksman" tvg-logo="http://timepassbd.live/Admin/main/images/tt6902332/poster/rVgegHud79yK18qDUq3Holb1C9T.jpg" group-title="Hollywood Movies",The Marksman 
+http://ftp.timepassbd.live/skyview-ftp/ftp1/ENGLISH_MOVIES/2021/The%20Marksman%20%282021%29/The.Marksman.2021.720p.HDCAM.SLOTSLIGHTS.mkv
+
+#EXTINF:-1 tvg-name="Born a Champion" tvg-logo="http://timepassbd.live/Admin/main/images/tt10661710/poster/wTjBPDsxb1Ifsb0LVay8vXO8Fxg.jpg" group-title="Hollywood Movies",Born a Champion 
+http://ftp.timepassbd.live/skyview-ftp/ftp1/ENGLISH_MOVIES/2021/Born%20A%20Champion%20%282021%29/Born.A.Champion.2021.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
+
+#EXTINF:-1 tvg-name="You Deserve a Lover" tvg-logo="http://timepassbd.live/Admin/main/images/tt10223546/poster/lQuN357xgGz2IovnbOySXP70DTj.jpg" group-title="Hollywood Movies",You Deserve a Lover 
+http://ftp.timepassbd.live/skyview-ftp/ftp1/ENGLISH_MOVIES/2019/You%20Deserve%20a%20Lover%20%282019%29/You.Deserve.A.Lover.2019.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 
                                                         south indian movies
 
@@ -2050,6 +2128,27 @@ http://ftp.timepassbd.live/skyview-ftp/ftp2/SOUTH_INDIAN_MOVIES/2020/BomBhaat%20
 #EXTINF:-1 tvg-name="Mafia" tvg-logo="http://image.tmdb.org/t/p/w185/ukaXSfyN1RoTKQ34YgjyBOd4ZhQ.jpg" group-title="South Indian Movies",Mafia 
 http://ftp.timepassbd.live/skyview-ftp/ftp2/SOUTH_INDIAN_MOVIES/2020/Mafia%20Chapter%201%20%282020%29/Mafia%20Chapter%201%20%282020%29%5BTamil%20Proper%201080p%20HD%20AVC%20DDP%205.1%20-%20x264%20-%201.9GB%20-%20ESubs%5D.mkv
 
+#EXTINF:-1 tvg-name="Irandam Kuththu" tvg-logo="http://timepassbd.live/Admin/main/images/tt11497592/poster/394bvwBhHgZDWANG06VLocNXl81.jpg" group-title="South Indian Movies",Irandam Kuththu 
+http://ftp.timepassbd.live/skyview-ftp/ftp2/SOUTH_INDIAN_MOVIES/2020/Irandam%20Kuththu%282020%29/www.1TamilMV.live%20-%20IRANDAM%20KUTHTHU%20%282020%29%20Tamil%20TRUE%20HD%20-%201080p%20-%20AVC%20-%20DD5.1%20-%202.4GB%20-%20ESub.mkv
+
+#EXTINF:-1 tvg-name="Living Together" tvg-logo="http://timepassbd.live/Admin/main/images/tt12677532/poster/Living-Together.jpg" group-title="South Indian Movies",Living Together 
+http://ftp.timepassbd.live/skyview-ftp/ftp2/SOUTH_INDIAN_MOVIES/2020/Living%20Together%20%282020%29/Living%20Together%20%282020%29%201080p%20Telugu%20Proper%20WEB-DL%20AVC%20AC3%20800MB%20ESub.mkv
+
+#EXTINF:-1 tvg-name="Gatham" tvg-logo="http://timepassbd.live/Admin/main/images/tt13105536/poster/6jwyPp8pAL7evPDADfI4nL9Pgt2.jpg" group-title="South Indian Movies",Gatham 
+http://ftp.timepassbd.live/skyview-ftp/ftp2/SOUTH_INDIAN_MOVIES/2020/Gatham%20(2020)/Gatham%20(2020)%20Telugu%20(720p%20WEBRip%20x265%2010bit)%20-%20[Musafirboy].mp4
+
+#EXTINF:-1 tvg-name="V" tvg-logo="http://timepassbd.live/Admin/main/images/tt11385128/poster/qFPu7C23VqLhQXb4F2pW0t9HnSL.jpg" group-title="South Indian Movies",V 
+http://ftp.timepassbd.live/skyview-ftp/ftp2/SOUTH_INDIAN_MOVIES/2020/V%20%282020%29/V%20%282020%29%20720p%20WEBRip%20x264%20AAC%20Multi%20Aud%20%5B%20Tel%2B%20Tam%20%2B%20Mal%20%2B%20Kan%20%5D%20Hindi%20Sub.mkv
+
+#EXTINF:-1 tvg-name="Meka Suri" tvg-logo="http://timepassbd.live/Admin/main/images/tt12747588/poster/kzGNlXPH6mx90k5UjX5yFsn7lK6.jpg" group-title="South Indian Movies",Meka Suri 
+http://ftp.timepassbd.live/skyview-ftp/ftp2/SOUTH_INDIAN_MOVIES/2020/Meka%20Suri%20(2020)/www.TamilRockers.ws%20-%20Meka%20Suri%20(2020)[Telugu%201080p%20HD%20AVC%20-%20MP4%20-%20x264%20-%201GB].mp4
+
+#EXTINF:-1 tvg-name="Meka Suri 2" tvg-logo="http://timepassbd.live/Admin/main/images/tt12845062/poster/77185792.jfif" group-title="South Indian Movies",Meka Suri 2 
+http://ftp.timepassbd.live/skyview-ftp/ftp2/SOUTH_INDIAN_MOVIES/2020/Meka%20Suri%202%20%282020%29/Meka%20Suri%202%20%282020%29%20Telugu%20HDRip%20-%20700MB%20-%20x264%20-%20MP3%20-%20ESub.mkv
+
+#EXTINF:-1 tvg-name="Middle Class Melodies" tvg-logo="http://timepassbd.live/Admin/main/images/tt13242960/poster/wY0bivHEaQiLHmmMQeddWOJa1Lm.jpg" group-title="South Indian Movies",Middle Class Melodies 
+http://ftp.timepassbd.live/skyview-ftp/ftp2/SOUTH_INDIAN_MOVIES/2020/Middle%20Class%20Melodies%20%282020%29/MIDDLE%20CLASS%20MELODIES%20%282020%29%20Telugu%20TRUE%20HD%20-%20720p%20-%20AVC%20-%20%28DD%2B5.1%20-%20192Kbps%29%20-%201.9GB%20-%20ESub.mkv
+
                                                       south hindi dubbed
 
 #EXTINF:-1 tvg-name="Master" tvg-logo="http://timepassbd.live/Admin/main/images/tt10579952/poster/sxhq8VXCmFuFIHC1LKW1b8ZCXaf.jpg" group-title="South Hindi Dubbed",Master 
@@ -2111,3 +2210,21 @@ http://ftp.timepassbd.live/skyview-ftp/ftp1/DUBBED_MOVIES/SOUTH_DUBBED_MOVIE/201
 
 #EXTINF:-1 tvg-name="Hawaa" tvg-logo="http://image.tmdb.org/t/p/w185/4tgSwJwzYCkFP4XhsyT0NCcsDbn.jpg" group-title="South Hindi Dubbed",Hawaa 
 http://ftp.timepassbd.live/skyview-ftp/ftp1/DUBBED_MOVIES/SOUTH_DUBBED_MOVIE/2019//Hawaa%20(2019)/Hawaa%20(2019)%20UNCUT%20720p%20HDRip%20x264%20ESub%20[Dual%20Audio][Hindi%20DD2.0+Telugu%20DD5.1].mkv
+
+#EXTINF:-1 tvg-name="Hebbuli" tvg-logo="http://timepassbd.live/Admin/main/images/tt3962184/poster/45oR5i1pqO7ImZM6SgpprHnCFBZ.jpg" group-title="South Hindi Dubbed",Hebbuli 
+http://ftp.timepassbd.live/skyview-ftp/ftp1/DUBBED_MOVIES/SOUTH_DUBBED_MOVIE/2017//Hebbuli%20(2017)/Hebbuli%20(2017)%20720p%20UNCUT%20HDRip%20[Dual%20Audio][Hindi%20DD2.0+Kannada%202.0].mkv
+
+#EXTINF:-1 tvg-name="Sketch" tvg-logo="http://image.tmdb.org/t/p/w185/meJjODI5tTJAvyxhmnDyW8qLPRj.jpg" group-title="South Hindi Dubbed",Sketch 
+http://ftp.timepassbd.live/skyview-ftp/ftp1/DUBBED_MOVIES/SOUTH_DUBBED_MOVIE/2018//Sketch%20(2018)/Sketch%20(2018)%20720p%20UNCUT%20HDRip%20ESubs%20[Dual%20Audio][Hindi%20DD2.0+Tamil%20DD5.1].mkv
+
+#EXTINF:-1 tvg-name="Gayatri" tvg-logo="http://timepassbd.live/Admin/main/images/tt7690466/poster/jJonfDUWhvyJE1qTylNUUvrpJXF.jpg" group-title="South Hindi Dubbed",Gayatri 
+http://ftp.timepassbd.live/skyview-ftp/ftp1/DUBBED_MOVIES/SOUTH_DUBBED_MOVIE/2018//Gayatri%20(2018)/Gayatri%20(2018)%20720p%20UNCUT%20HDRip%20ESub%20[Dual%20Audio][Hindi%20DD2.0+Telugu%202.0].mkv
+
+#EXTINF:-1 tvg-name="1971: Beyond Borders" tvg-logo="http://timepassbd.live/Admin/main/images/tt6363436/poster/mdvnaY0FowdQv3eaLElnlnJ2tKY.jpg" group-title="South Hindi Dubbed",1971: Beyond Borders 
+http://ftp.timepassbd.live/skyview-ftp/ftp1/DUBBED_MOVIES/SOUTH_DUBBED_MOVIE/2017//1971%20-%20Beyond%20Borders%20(2017)/1971%20Beyond%20Borders%20(2017)%20UnCut%20720p%20HDRip%20[Multi%20Audio][Hindi+Telugu+Malayalam].mkv
+
+#EXTINF:-1 tvg-name="Bairavaa" tvg-logo="http://timepassbd.live/Admin/main/images/tt6201292/poster/hBtRwo9BIdRARsNZPtAHvlse0mg.jpg" group-title="South Hindi Dubbed",Bairavaa 
+http://ftp.timepassbd.live/skyview-ftp/ftp1/DUBBED_MOVIES/SOUTH_DUBBED_MOVIE/2017//Bairavaa%20(2017)/Bairavaa%20(2017)%20x264%20720p%20HDRiP%20%7BDual%20Audio%7D%20[Hindi%20DD%202.0%20+%20Tamil%202.0].mkv
+
+#EXTINF:-1 tvg-name="Dhruva" tvg-logo="http://timepassbd.live/Admin/main/images/tt6027478/poster/hh7D1fLjet1Ce1kcCkk5TVr3g9O.jpg" group-title="South Hindi Dubbed",Dhruva 
+http://ftp.timepassbd.live/skyview-ftp/ftp1/DUBBED_MOVIES/SOUTH_DUBBED_MOVIE/2016//Dhruva%20(2016)/Dhruva%20(2016)%20x264%20720p%20HDRiP%20UNCUT%20%7BDual%20Audio%7D%20[Hindi%20DD%202.0%20+%20Telugu%202.0].mkv
