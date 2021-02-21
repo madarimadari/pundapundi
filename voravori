@@ -706,7 +706,7 @@ http://bdvisioniptv.ddns.net:25461/live/tonmay23/7252/127.m3u8
 #EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png" group-title="Informative Channel",National Geographic
 http://bdvisioniptv.ddns.net:25461/live/tonmay23/7252/138.m3u8
 
-#EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png" group-title="Informative Channel",National Geographic Hindi
+#EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png" group-title="Informative Channel",National Geographic
 http://bdvisioniptv.ddns.net:25461/live/tonmay23/7252/864.m3u8
 
 #EXTINF:-1 tvg-name="Nat Geo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Informative Channel",Nat Geo Wild
